@@ -19,6 +19,8 @@ Welcome to my portfolio! I’m **Ngahame**, a passionate **Junior Frontend React
 - **Description**: A classic TicTacToe game with responsive design and sleek animations. Playable on mobile and desktop.
 - **Technologies**: React, JavaScript, Tailwind CSS.
 
+### visit site to view more projects..
+
 ## 🎨 Skills & Expertise
 
 - **Frontend Development**: Expertise in React, Tailwind CSS, JavaScript (ES6+), and HTML5.
@@ -37,7 +39,7 @@ Welcome to my portfolio! I’m **Ngahame**, a passionate **Junior Frontend React
 
 ## 🚀 Deployment
 
-This portfolio is deployed and live on [Netlify](https://your-netlify-portfolio-link). You can also find the source code on my GitHub repository.
+This portfolio is deployed and live on [Netlify](https://ngahame.netlify.app/). You can also find the source code on my GitHub repository.
 
 ## 📬 Contact Me
 

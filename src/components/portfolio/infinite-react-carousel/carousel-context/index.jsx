@@ -29,28 +29,28 @@ const CarouselProvider = ({ children }) => {
       src: "images/infinitycarousel.jpg",
       id: 2,
       code: "https://github.com/treezycoder/react-infinity-carousel",
-      live: "https://treezycoder.github.io/react-infinity-carousel/",
+      live: "https://ngahamecarousel.netlify.app/",
     },
     {
       title: "Gallery App",
       src: "images/galleryapp.jpg",
       id: 3,
       code: "https://github.com/treezycoder/gallery-app",
-      live: "https://treezycoder.github.io/gallery-app/",
+      live: "https://ngahamegallery.netlify.app/",
     },
     {
       title: "Tictactoe Game",
       src: "images/tictactoe.jpg",
       id: 4,
       code: "https://github.com/treezycoder/tictactoe-game",
-      live: "https://treezycoder.github.io/tictactoe-game/",
+      live: "https://ngahametictactoe.netlify.app/",
     },
     {
       title: "Online Image Slider",
       src: "images/onlineimageslider.jpg",
       id: 5,
       code: "https://github.com/treezycoder/online-image-slider",
-      live: "https://treezycoder.github.io/online-image-slider/",
+      live: "https://ngahameimageslider.netlify.app/",
     },
 
     {
@@ -58,7 +58,7 @@ const CarouselProvider = ({ children }) => {
       src: "images/portfolio.jpg",
       id: 6,
       code: "https://github.com/treezycoder/personal-portfolio",
-      live: "https://github.com/treezycoder/personal-portfolio",
+      live: "https://ngahame.netlify.app/",
     },
   ]);
 
