@@ -52,6 +52,14 @@ const CarouselProvider = ({ children }) => {
       code: "https://github.com/treezycoder/online-image-slider",
       live: "https://treezycoder.github.io/online-image-slider/",
     },
+
+    {
+      title: "My Portfolio",
+      src: "images/portfolio.jpg",
+      id: 6,
+      code: "https://github.com/treezycoder/personal-portfolio",
+      live: "https://github.com/treezycoder/personal-portfolio",
+    },
   ]);
 
   const [currentIndex, setCurrentIndex] = useState(2);

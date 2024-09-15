@@ -84,7 +84,7 @@ const ImageComponent = ({ image, index }) => {
       <div
         style={{}}
         className={`z-[10] absolute ${
-          currentImageHovered && index === 2
+          currentImageHovered && !isTranslating && index === 2
             ? "flex justify-center items-center gap-4"
             : "hidden"
         } inset-0  w-full text-center bg-black/50 backdrop-blur-sm`}
