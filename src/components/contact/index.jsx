@@ -48,6 +48,7 @@ export default function Contact() {
           I'd love to hear from you! Let's Start a Conversation
         </p>
         <form
+          netlify
           onSubmit={handleSubmit}
           className="grid grid-cols-1 md:grid-cols-2 gap-6"
         >
