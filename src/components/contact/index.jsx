@@ -24,9 +24,7 @@ export default function Contact() {
 
     // Open the user's mail app with the mailto link
     window.location.href = mailtoLink;
-    alert(
-      `Thank you, ${formData.name}! Your message has been opened in your email app.`
-    );
+    alert(`Thank you, ${formData.name}!`);
     setFormData({
       name: "",
       email: "",
