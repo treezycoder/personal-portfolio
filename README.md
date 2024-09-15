@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Ngahame - Frontend React Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio! I’m **Ngahame**, a passionate **Junior Frontend React Developer** specializing in creating dynamic, responsive, and user-friendly interfaces using modern technologies like **React**, **JavaScript**, and **Tailwind CSS**.
 
-## Available Scripts
+## 💻 Some Projects
 
-In the project directory, you can run:
+### 1. Infinity Carousel
 
-### `npm start`
+- **Description**: A responsive image carousel with infinite looping, smooth animations, and navigation controls. Tailored for performance and user experience.
+- **Technologies**: React, Tailwind CSS, JavaScript, CSS Animations.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 2. Gallery App
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Description**: An interactive photo gallery that integrates with the Unsplash API for searching and saving favorite photos. Features include infinite scroll, a dark/light theme toggle, and local storage for user preferences.
+- **Technologies**: React, Axios, Tailwind CSS, Unsplash API, Local Storage.
 
-### `npm test`
+### 3. TicTacToe Game
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Description**: A classic TicTacToe game with responsive design and sleek animations. Playable on mobile and desktop.
+- **Technologies**: React, JavaScript, Tailwind CSS.
 
-### `npm run build`
+## 🎨 Skills & Expertise
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend Development**: Expertise in React, Tailwind CSS, JavaScript (ES6+), and HTML5.
+- **Responsive Design**: Skilled in creating mobile-first responsive web applications with cross-browser compatibility.
+- **Animations**: Proficient in implementing CSS animations and keyframe transitions to enhance user interaction.
+- **Dark/Light Mode Customizations**: Ability to seamlessly switch between themes while maintaining UI consistency.
+- **Version Control**: Experience with Git and GitHub for source code management.
+- **Testing**: Familiar with modern testing tools and methodologies.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🌟 Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Dark/Light Mode**: Customizable UI theme based on user preferences stored in local storage.
+- **Smooth Animations**: Various transitions and keyframe animations enhance user experience.
+- **SEO Optimized**: Ensured all projects are SEO-friendly with proper meta tags for search engines.
+- **API Integrations**: Worked with REST APIs like Unsplash to fetch dynamic content.
 
-### `npm run eject`
+## 🚀 Deployment
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This portfolio is deployed and live on [Netlify](https://your-netlify-portfolio-link). You can also find the source code on my GitHub repository.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📬 Contact Me
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Email**: treezyvarrick@gmail.com
+- **LinkedIn**: [Ngahame's LinkedIn](https://www.linkedin.com/in/tresor-ngahame-0004a5287/)
+- **GitHub**: [Ngahame on GitHub](https://github.com/treezycoder)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to explore my work and connect with me if you're interested in collaboration or job opportunities!
