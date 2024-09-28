@@ -78,6 +78,7 @@ export default function SkillsComponent() {
           className={`${iconSize} text-gray-600 hover:text-gray-700 transition-transform transform hover:scale-110 cursor-pointer`}
           title="Git"
         />
+        <NextIcon />
       </div>
       <div
         style={{
