@@ -32,9 +32,8 @@ export default function Home() {
         className={`text-center text-neutral-900 dark:text-gray-400 text-md md:text-lg  max-w-2xl mb-8 leading-relaxed`}
       >
         I'm a Frontend React Developer with a strong understanding of React,
-        JavaScript, Tailwind CSS/CSS3, and HTML. Though I have no professional
-        experience, I’m skilled in building responsive, dynamic web
-        applications.
+        JavaScript, Tailwind CSS/CSS3, and HTML. I’m skilled in building
+        responsive, user-friendly and dynamic web applications.
       </p>
       <SocialIconsHome theme={`${darkMode ? "dark" : "light"}`} />
       <p className={`mt-8`}>

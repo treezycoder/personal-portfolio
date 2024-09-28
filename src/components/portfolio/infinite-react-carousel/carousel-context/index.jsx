@@ -60,6 +60,20 @@ const CarouselProvider = ({ children }) => {
       code: "https://github.com/treezycoder/personal-portfolio",
       live: "https://ngahame.netlify.app/",
     },
+    {
+      title: "Next Carousel",
+      src: "images/nextcarousel.jpg",
+      id: 7,
+      code: "https://github.com/treezycoder/nextcarousel",
+      live: "https://nextcarousellive.vercel.app/projects",
+    },
+    {
+      title: "Service App",
+      src: "images/serviceapp.jpg",
+      id: 8,
+      code: "https://github.com/treezycoder/service-app",
+      live: "https://ngahameserviceapp.netlify.app/",
+    },
   ]);
 
   const [currentIndex, setCurrentIndex] = useState(2);
